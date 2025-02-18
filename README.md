@@ -56,3 +56,5 @@ Item Cost = SUMX(inventory_management_1, inventory_management_1[unit_cost] * inv
 ```DAX
 Stock % = DIVIDE(SUM(inventory_management_2[inventory_balance]), SUM(inventory_management_2[total_inventory]))
 ```
+---
+These calculated columns and DAX measures will help Ben's Pizzeria spot trends and make better decisions to improve their new pizzeria.
