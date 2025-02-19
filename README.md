@@ -9,6 +9,11 @@ Simple DAX measures are used to address key questions. These measures include:
 ## Calculated Columns
 These columns classify or calcutale values at the row level, prior to aggregating the data:
 
+- **Item Name & Category**: Combines the item name and its category for better readability in visualizations.
+```DAX
+item_name_cat = order_activity[item_name] & " (" & order_activity[item_cat] & ")"
+```
+
 - **Delivery Type**: Categorizes orders as either Delivery or Pick Up based on order activity.
 ```DAX
 Delivery = IF(order_activity[delivery_1] = "True", "Delivery", "Pick Up")
