@@ -64,5 +64,13 @@ Stock % = DIVIDE(SUM(inventory_management_2[inventory_balance]), SUM(inventory_m
 ---
 These calculated columns and DAX measures will help Ben's Pizzeria spot trends and make better decisions to improve their new pizzeria.
 
-| [⏪ Data Preparation on PostgreSQL](https://mramadhankesapi.github.io/Data-Preparation-Processes_for_Bens-Pizzeria...Sales-and-Inventory-Analytics/) | [Ben's Pizzeria: Sales & Inventory Analytics ⏩](https://mramadhankesapi.github.io/Bens-Pizzeria...Sales-and-Inventory-Analytics/) |
-|----------------------------------|---------------|
+<table style="width:100%; border-collapse: collapse; text-align: center;">
+  <tr>
+    <td style="width:50%; padding:10px; text-align: left;">
+      ⬅️ <a href="https://mramadhankesapi.github.io/Data-Preparation-Processes_for_Bens-Pizzeria...Sales-and-Inventory-Analytics/" style="text-decoration: none; font-weight: bold; color: #007bff;">Data Preparation on PostgreSQL</a>
+    </td>
+    <td style="width:50%; padding:10px; text-align: right;">
+      <a href="https://mramadhankesapi.github.io/Bens-Pizzeria...Sales-and-Inventory-Analytics/" style="text-decoration: none; font-weight: bold; color: #007bff;">📊 PhoneNow: Customer Churn Analytics</a> ➡️
+    </td>
+  </tr>
+</table>
