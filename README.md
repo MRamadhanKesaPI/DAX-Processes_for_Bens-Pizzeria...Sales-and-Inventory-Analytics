@@ -63,3 +63,6 @@ Stock % = DIVIDE(SUM(inventory_management_2[inventory_balance]), SUM(inventory_m
 ```
 ---
 These calculated columns and DAX measures will help Ben's Pizzeria spot trends and make better decisions to improve their new pizzeria.
+
+| [⏪ Data Preparation on PostgreSQL](https://mramadhankesapi.github.io/Data-Preparation-Processes_for_Bens-Pizzeria...Sales-and-Inventory-Analytics/) | [Ben's Pizzeria: Sales & Inventory Analytics ⏩](https://mramadhankesapi.github.io/Bens-Pizzeria...Sales-and-Inventory-Analytics/) |
+|----------------------------------|---------------|
